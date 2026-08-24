@@ -29,7 +29,9 @@ O foco deste projeto foi o desenvolvimento da versão web responsiva do aplicati
 ---
 
 ## Design e Paleta de Cores
-A proposta visual busca transmitir acolhimento, solidariedade e nutrição, utilizando elementos gráficos e fotografias.
+A proposta visual busca transmitir acolhimento, solidariedade e nutrição, utilizando elementos gráficos e fotografias. 
+
+Todo o projeto foi **desenvolvido de forma 100% autoral (sem o uso de inteligência artificial na criação do design)** utilizando o **Figma** como ferramenta principal e buscando referências visuais e inspirações na comunidade do **Pinterest**. 
 
 A paleta de cores do projeto utiliza os seguintes tons principais:
 - Laranja
@@ -41,19 +43,48 @@ A paleta de cores do projeto utiliza os seguintes tons principais:
 
 ## Telas e Protótipo
 
-![Tela Inicial](IMG_0606.jpeg)
-![Tela de Login](IMG_0607.jpeg)
-![Tela Home](IMG_0608.jpeg)
-![Tela Home](IMG_0609.jpeg)
-![Tela Home](IMG_0610.jpeg)
-![Tela Explorar](IMG_0611.jpeg)
-![Tela Explorar](IMG_0612.jpeg)
-![Tela Sobre a ONG](IMG_0613.jpeg)
-![Tela Sobre a ONG](IMG_0614.jpeg)
-![Tela de Doações](IMG_0615.jpeg)
-![Tela de Doações](IMG_0616.jpeg)
-![Tela de Doações](IMG_0617.jpeg)
-![Tela de Doações - Para ONG](IMG_0618.jpeg)
-![Tela de Doações - Para ONG](IMG_0619.jpeg)
+🔗 [Acessar o protótipo interativo no Figma](https://www.figma.com/design/SdjI915RqaVwEVPit1YsHZ/Vers%C3%A3o-Desktop---AlimentaA%C3%A7%C3%A3o?node-id=0-1&t=HetdA4GJwoZkxfnB-1)
 
-[Acessar o protótipo interativo no Figma](https://www.figma.com/design/SdjI915RqaVwEVPit1YsHZ/Vers%C3%A3o-Desktop---AlimentaA%C3%A7%C3%A3o?node-id=0-1&t=HetdA4GjwoZkxfnB-1)
+---
+
+### Tela Inicial
+![Tela Inicial](IMG_0606.jpeg)
+
+### Tela de Login
+![Tela de Login](IMG_0607.jpeg)
+
+### Tela Home 
+![Tela Home](IMG_0608.jpeg)
+
+### Tela Home 
+![Tela Home](IMG_0609.jpeg)
+
+### Tela Home
+![Tela Home](IMG_0610.jpeg)
+
+### Tela Explorar
+![Tela Explorar](IMG_0611.jpeg)
+
+### Tela Explorar
+![Tela Explorar](IMG_0612.jpeg)
+
+### Tela Sobre a ONG
+![Tela Sobre a ONG](IMG_0613.jpeg)
+
+### Tela Sobre a ONG 
+![Tela Sobre a ONG](IMG_0614.jpeg)
+
+### Tela de Doações
+![Tela de Doações](IMG_0615.jpeg)
+
+### Tela de Doações
+![Tela de Doações](IMG_0616.jpeg)
+
+### Tela de Doações
+![Tela de Doações](IMG_0617.jpeg)
+
+### Tela de Doações — Para ONG
+![Tela de Doações — Para ONG](IMG_0618.jpeg)
+
+### Tela de Doações — Para ONG (Painel)
+![Tela de Doações — Para ONG](IMG_0619.jpeg)
