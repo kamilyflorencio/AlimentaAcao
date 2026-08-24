@@ -29,9 +29,9 @@ O foco deste projeto foi o desenvolvimento da versão web responsiva do aplicati
 ---
 
 ## Design e Paleta de Cores
-A proposta visual busca transmitir acolhimento, solidariedade e nutrição, utilizando elementos gráficos e fotografias. 
-
 Todo o projeto foi **desenvolvido de forma 100% autoral (sem o uso de inteligência artificial na criação do design)** utilizando o **Figma** como ferramenta principal e buscando referências visuais e inspirações na comunidade do **Pinterest**. 
+
+A proposta visual busca transmitir acolhimento, solidariedade e nutrição, utilizando elementos gráficos e fotografias. 
 
 A paleta de cores do projeto utiliza os seguintes tons principais:
 - Laranja
