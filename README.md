@@ -86,5 +86,5 @@ A paleta de cores do projeto utiliza os seguintes tons principais:
 ### Tela de Doações — Para ONG
 ![Tela de Doações — Para ONG](IMG_0618.jpeg)
 
-### Tela de Doações — Para ONG (Painel)
+### Tela de Doações — Para ONG 
 ![Tela de Doações — Para ONG](IMG_0619.jpeg)
